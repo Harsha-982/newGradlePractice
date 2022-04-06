@@ -1,0 +1,6 @@
+com/example/newGradlePractise/Second.java
+ com.example.newGradlePractise.Second
+com/example/newGradlePractise/HelloServlet.java
+ com.example.newGradlePractise.HelloServlet
+com/example/newGradlePractise/MainServer.java
+ com.example.newGradlePractise.MainServer

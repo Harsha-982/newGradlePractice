@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="GradleExecutableJar" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="app-engine-flexible" name="Google App Engine Flexible">
+      <configuration>
+        <option name="appYamlPath" value="C:\Users\user.FULL408-WIN\IdeaProjects\GradleExecutableJar\src\main\appengine\app.yaml" />
+        <option name="dockerDirectory" value="C:\Users\user.FULL408-WIN\IdeaProjects\GradleExecutableJar\src\main\docker" />
+      </configuration>
+    </facet>
+  </component>
+</module>

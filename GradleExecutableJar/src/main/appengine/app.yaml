@@ -1,0 +1,3 @@
+runtime: java11
+entrypoint : java -cp GradleExecutableJar.jar com.example.GradleExecutableJar.Entrypoint
+
